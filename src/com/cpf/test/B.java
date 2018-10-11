@@ -7,5 +7,4 @@ public class B {
     int x=1;
     int aaa;
     int bbb;
-    int a;
 }
